@@ -12,4 +12,17 @@ as my language of choice.
 
 *Up-to-date as of January 3, 2026*
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=a22Dv)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a22Dv&theme=dracula)
+
+## Recent Projects
+
+### 1. [nn-c](https://github.com/a22Dv/nn-c)
+A mini neural network framework built entirely in C.
+*(I just wanted to know if it was possible to build "AI" from scratch.)*
+
+### 2. [wygpa](https://github.com/a22Dv/wygpa)
+A Rust-based CLI tool that serves as a GPA tracker that I personally use for my own academic endeavors. *(Currently in-progress)*
+
+### 3. [pvz-p](https://github.com/a22Dv/pvz-p)
+
+An end-to-end autonomous software agent that can play the desktop version of Plants vs. Zombies. *(Planned)*
