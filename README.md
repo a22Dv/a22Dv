@@ -12,7 +12,8 @@ as my language of choice.
 
 *Up-to-date as of January 3, 2026*
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a22Dv&theme=dracula)
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a22Dv&theme=transparent)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a22Dv&theme=transparent)|
+|-----|-----|
 
 ## Recent Projects
 
