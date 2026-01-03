@@ -12,4 +12,4 @@ as my language of choice.
 
 *Up-to-date as of January 3, 2026*
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=a22Dv)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
