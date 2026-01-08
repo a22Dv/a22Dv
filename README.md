@@ -20,7 +20,7 @@ as my language of choice.
 ### 1. [nn-c](https://github.com/a22Dv/nn-c)
 A mini neural network framework built entirely in C.
 
-### 2. [wygpa](https://github.com/a22Dv/morsify)
+### 2. [morsify](https://github.com/a22Dv/morsify)
 A Rust-based CLI tool that converts text into audible morse code.
 
 ### 3. [pvz-p](https://github.com/a22Dv/pvz-p)
