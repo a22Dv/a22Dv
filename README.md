@@ -19,11 +19,9 @@ as my language of choice.
 
 ### 1. [nn-c](https://github.com/a22Dv/nn-c)
 A mini neural network framework built entirely in C.
-*(I just wanted to know if it was possible to build "AI" from scratch.)*
 
-### 2. [wygpa](https://github.com/a22Dv/wygpa)
-A Rust-based CLI tool that serves as a GPA tracker that I personally use for my own academic endeavors. *(Currently in-progress)*
+### 2. [wygpa](https://github.com/a22Dv/morsify)
+A Rust-based CLI tool that converts text into audible morse code.
 
 ### 3. [pvz-p](https://github.com/a22Dv/pvz-p)
-
-An end-to-end autonomous software agent that can play the desktop version of Plants vs. Zombies. *(Planned)*
+An end-to-end autonomous software agent that can play the desktop version of Plants vs. Zombies.
