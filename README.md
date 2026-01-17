@@ -10,7 +10,7 @@ piques my interest at the moment.
 I spend most of my time around C/C++ as well as Python
 as my language of choice.
 
-*Up-to-date as of January 3, 2026*
+*Up-to-date as of January 17, 2026*
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a22Dv&theme=transparent)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a22Dv&theme=transparent)|
 |-----|-----|
@@ -23,5 +23,5 @@ A mini neural network framework built entirely in C.
 ### 2. [morsify](https://github.com/a22Dv/morsify)
 A Rust-based CLI tool that converts text into audible morse code.
 
-### 3. [pvz-p](https://github.com/a22Dv/pvz-p)
-An end-to-end autonomous software agent that can play the desktop version of Plants vs. Zombies.
+### 3. [modemy](https://github.com/a22Dv/modemy)
+A minimal asynchronous software-based modem that's able to communicate via audio.
