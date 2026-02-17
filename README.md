@@ -17,11 +17,12 @@ as my language of choice.
 
 ## Recent Projects
 
-### 1. [nn-c](https://github.com/a22Dv/nn-c)
+### 1. [a2b](https://github.com/a22Dv/a2b)
+A software-based ballistic intercept solver written in Python/C++ for simulated environments.
+
+
+### 2. [nn-c](https://github.com/a22Dv/nn-c)
 A mini neural network framework built entirely in C.
 
-### 2. [morsify](https://github.com/a22Dv/morsify)
-A Rust-based CLI tool that converts text into audible morse code.
-
 ### 3. [modemy](https://github.com/a22Dv/modemy)
-A minimal asynchronous software-based modem that's able to communicate via audio.
+An minimal audio-based software modulator. It uses a musical scale to create sound out of a given file's data.
