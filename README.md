@@ -10,14 +10,14 @@ piques my interest at the moment.
 I spend most of my time around C/C++ as well as Python
 as my language of choice.
 
-*Up-to-date as of January 17, 2026*
+*Up-to-date as of February 17, 2026*
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a22Dv&theme=transparent)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a22Dv&theme=transparent)|
 |-----|-----|
 
 ## Recent Projects
 
-### 1. [a2b](https://github.com/a22Dv/a2b)
+### 1. [a-to-b](https://github.com/a22Dv/a-to-b)
 A software-based ballistic intercept solver written in Python/C++ for simulated environments.
 
 
